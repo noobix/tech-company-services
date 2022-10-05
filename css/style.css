@@ -1,0 +1,41 @@
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+  }
+
+/* body {
+	padding-top: 3.5rem;
+  } */
+  @media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+	  font-size: 3.5rem;
+	}
+  }
+.backimg{
+	 background-image: url('/images/pexels-andrea-piacquadio-3755700.jpg');
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 background-position: center;
+	 height: 90vh;
+ }
+.text-color{
+	 color: darkred;
+ }
+.text-size{
+	font-size: 35px;
+}
+.contHeight{
+	width: auto;
+	background-color: aqua;
+}
+.mt-margin{
+	margin-top: 3.5rem
+}
+.menu-text-co{
+	color: brown;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
